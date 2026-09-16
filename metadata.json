@@ -1,0 +1,6 @@
+{
+  "name": "চিঠি ঘর",
+  "description": "চিঠি ঘর — কিছু কথা উড়ে বেড়াক হৃদয় থেকে হৃদয়ে। একটি ডিজিটাল ডাকঘর ও সাহিত্যিক চিঠির আসর।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
